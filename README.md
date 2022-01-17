@@ -1,7 +1,7 @@
 # C3-Action-Anticipation
 
 ## Challenge
-To submit and participate to this challenge, register at the [Action Anticipation Codalab Challenge](https://competitions.codalab.org/competitions/25925)
+To submit and participate to this challenge, register at the [Action Anticipation Codalab Challenge](https://codalab.lisn.upsaclay.fr/competitions/702)
 
 ## Evaluation Code
 This repository contains the official code to evaluate egocentric action anticipation methods on the EPIC-KITCHENS-100 validation set. 
